@@ -1,3 +1,0 @@
-/Users/owenli/Desktop/Ray Tracer/build/CMakeFiles/Ray_Tracer.dir
-/Users/owenli/Desktop/Ray Tracer/build/CMakeFiles/edit_cache.dir
-/Users/owenli/Desktop/Ray Tracer/build/CMakeFiles/rebuild_cache.dir
